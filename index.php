@@ -124,7 +124,7 @@ $title = "Portfolio";
                             Maquette du site réalisée avec Figma<br />
                         </p>
                         <div class="blockLink-video">
-                            <a href="videoQCA.php" class="link-video">&gt;&gt; <span class="span-video">Vidéo</span> &lt;&lt;</a>
+                            <a href="videoTutotoform.php" class="link-video">&gt;&gt; <span class="span-video">Vidéo</span> &lt;&lt;</a>
                         </div>
                     </div>
                 </div>

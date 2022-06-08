@@ -58,6 +58,20 @@
     background: url('../images/thumb.webp') no-repeat center center/cover;
 }
 
+.main-certif {
+    background: url('../images/thumb.webp') no-repeat center center/cover;
+    min-height: 100vh;
+}
+
+.p-certif{
+    font-size: max(1vw, 12px);
+    background-color: rgba(0, 0, 0, 0.514);
+    color: white;
+    padding: max(0.5vw, 3px);
+    margin-top: max(1vw, 10px);
+    border-radius: 5px;
+}
+
 .section-video {
     height: 100vh;
 }
